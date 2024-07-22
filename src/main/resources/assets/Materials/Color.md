@@ -1,0 +1,13 @@
+Color
+- CarBlue: #0080FF
+- CarRed: #FF0000
+- CarYellow: #FFFF00
+- Glass: #80FF40
+- GlassDark: #5FC030
+- Road: #C0C0C0
+- RoadDark: #808080
+- Skin: #FFFFC0
+- Tire: #404040
+- TreeTrunk: #804400
+- Water: #40FFFF
+- WaterDark: #30BFC0
